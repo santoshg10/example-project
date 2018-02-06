@@ -1,0 +1,25 @@
+{
+  "name": "example-project",
+  "description": "use node js api mongodb database for book search",
+  "version": "0.0.2",
+  "dependencies": {
+    "redux": "3.7.2",
+    "reactstrap": "4.8.0",
+    "react-router-dom": "4.2.2",
+    "react-router": "4.2.0",
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react-bootstrap": "0.32.1",
+    "react": "16.0.0",
+    "bootstrap": "4.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
